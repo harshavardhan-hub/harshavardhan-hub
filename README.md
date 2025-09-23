@@ -83,7 +83,7 @@
 
 ## 🔹 Achievements  
 🏅 **Coding Competition Winner – JNTUA**  
-🏅 **Quiz Competition Winner – AIT**  
+🏅 **Quiz Competition Winner – ALTS**  
 
 ---
 
