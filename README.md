@@ -10,7 +10,7 @@
 ## 🔹 About Me  
 - 🎓 **B.Tech** in Electronics & Communication Engineering @ JNTUA (2022 – 2026)  
 - 💼 **Internships**:  
-  - 🚀 Web Development Intern @ **Raizzify** *(Sep 2025 – Present)*  
+  - 🚀 Web Development Intern @ **Raizzify** - Paid Internship *(Sep 2025 – Present)*  
   - 🌐 Full Stack Developer Intern @ **FlashFire Pvt. Ltd.** *(Jul – Aug 2025)*  
 - 🌟 Passionate about **AI integration, scalable APIs, and modern UI/UX**  
 - 🏆 Winner – Coding & Quiz Competitions  
