@@ -23,42 +23,50 @@
 
 ## 🔹 Skills & Tools  
 
-### 💻 Frontend  
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=000) 
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat&logo=nextdotjs) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000) 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=fff)  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=fff) 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=fff) 
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=fff) 
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=fff)  
+<p align="center">
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+</p>
 
-### ⚙️ Backend  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=fff) 
-![Express.js](https://img.shields.io/badge/Express.js-000?style=flat&logo=express&logoColor=fff) 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=fff) 
-![REST API](https://img.shields.io/badge/REST-02569B?style=flat&logo=rest&logoColor=fff)  
+<p align="center">
+  <!-- Backend -->
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST API-02569B?style=for-the-badge&logo=rest&logoColor=white" />
+</p>
 
-### 🗄️ Databases  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=fff) 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=fff) 
-![MongoDB Atlas](https://img.shields.io/badge/MongoDB_Atlas-47A248?style=flat&logo=mongodb&logoColor=fff)  
+<p align="center">
+  <!-- Databases -->
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
 
-### 🛠️ DevTools & Others  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=fff) 
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=fff) 
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visualstudiocode&logoColor=fff) 
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=fff) 
-![Zustand](https://img.shields.io/badge/Zustand-000?style=flat&logo=react&logoColor=fff)  
+<p align="center">
+  <!-- DevTools & Deployment -->
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
+  <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" />
+</p>
 
-### ☁️ Deployment  
-![Vercel](https://img.shields.io/badge/Vercel-000?style=flat&logo=vercel&logoColor=fff) 
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=000) 
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat&logo=railway&logoColor=fff)  
-
-### 🤖 AI & GenAI  
-![OpenRouter](https://img.shields.io/badge/OpenRouter_AI-FF6F00?style=flat&logo=openai&logoColor=fff) 
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-4285F4?style=flat&logo=googlegemini&logoColor=fff)  
+<p align="center">
+  <!-- AI & GenAI -->
+  <img src="https://img.shields.io/badge/OpenRouter AI-FF6F00?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prompt Engineering-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" />
+</p>
 
 ---
 
@@ -69,8 +77,6 @@
 ✔️ Full-stack platform with AI-generated practice questions.  
 ✔️ Real-time performance analytics dashboards.  
 **Tech Stack:** React, Node.js, PostgreSQL, OpenRouter API, Tailwind CSS, Vite  
-
----
 
 ### 🌐 Premium Portfolio Website – *Production-Ready Personal Portfolio*  
 [🔗 Live Demo](https://harsha-portfolio-teal.vercel.app/) | [💻 GitHub](https://github.com/harshavardhan-hub/harsha-portfolio)  
@@ -85,14 +91,21 @@
 
 ---
 
-
 ## 🔹 Connect With Me  
 
 <p align="center">
-  <a href="mailto:yanakandlaharshavardhan@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=fff" /></a>
-  <a href="https://www.linkedin.com/in/harsha-vardhan-yanakandla/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=fff" /></a>
-  <a href="https://harsha-portfolio-teal.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=fff" /></a>
-  <a href="https://wa.me/919441591443"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=fff" /></a>
+  <a href="mailto:yanakandlaharshavardhan@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=fff" />
+  </a>
+  <a href="https://www.linkedin.com/in/harsha-vardhan-yanakandla/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=fff" />
+  </a>
+  <a href="https://harsha-portfolio-teal.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=fff" />
+  </a>
+  <a href="https://wa.me/919441591443">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=fff" />
+  </a>
 </p>
 
 ---
