@@ -5,10 +5,6 @@
   🚀 <b>Full Stack Developer</b> | 🤖 <b>AI Enthusiast</b> | 💼 <b>Open to Opportunities</b>  
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=4CAF50&center=true&vCenter=true&width=550&lines=Full+Stack+Developer;AI+%26+GenAI+Explorer;Problem+Solver;Always+Learning+New+Things" alt="Typing SVG" />
-</p>
-
 ---
 
 ## 🔹 About Me  
