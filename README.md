@@ -85,18 +85,6 @@
 
 ---
 
-## 🔹 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshavardhan-hub&show_icons=true&theme=radical" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshavardhan-hub&layout=compact&theme=radical" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=harshavardhan-hub&theme=radical" alt="GitHub Streak" height="170"/>
-</p>
-
----
 
 ## 🔹 Connect With Me  
 
