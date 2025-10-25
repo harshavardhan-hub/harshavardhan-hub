@@ -69,7 +69,7 @@
 ## 🔹 Featured Projects  
 
 ### 🧠 ExamGenius AI – *AI-Powered Test Preparation Platform*  
-[🔗 Live Platform](https://exam-genius-ai.vercel.app/dashboard) | [💻 GitHub](https://github.com/harshavardhan-hub/Exam-Genius_AI)  
+[🔗 Live Platform](https://exam-genius-ai.vercel.app/) | [💻 GitHub](https://github.com/harshavardhan-hub/Exam-Genius_AI)  
 ✔️ Full-stack platform with AI-generated practice questions.  
 ✔️ Real-time performance analytics dashboards.  
 **Tech Stack:** React, Node.js, PostgreSQL, OpenRouter API, Tailwind CSS, Vite  
